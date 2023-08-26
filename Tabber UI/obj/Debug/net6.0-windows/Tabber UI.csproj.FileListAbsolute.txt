@@ -1,0 +1,18 @@
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\bin\Debug\net6.0-windows\Tabber UI.exe
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\bin\Debug\net6.0-windows\Tabber UI.deps.json
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\bin\Debug\net6.0-windows\Tabber UI.runtimeconfig.json
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\bin\Debug\net6.0-windows\Tabber UI.dll
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\bin\Debug\net6.0-windows\Tabber UI.pdb
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.csproj.AssemblyReference.cache
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber_UI.TabberTextBox.TabberTextBox.resources
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.csproj.GenerateResource.cache
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.AssemblyInfoInputs.cache
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.AssemblyInfo.cs
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.csproj.CoreCompileInputs.cache
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.dll
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\refint\Tabber UI.dll
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.pdb
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber UI.genruntimeconfig.cache
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\ref\Tabber UI.dll
+C:\Users\Jayden\OneDrive\Company\Tabber\Applications\Tabber-UI\Tabber UI\obj\Debug\net6.0-windows\Tabber_UI.Form.resources
